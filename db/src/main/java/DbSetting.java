@@ -5,7 +5,6 @@ public class DbSetting {
 
     public DbSetting(String name, String password) {
         this.name = name;
-        this.password = password;
+        this.name = password;
     }
-
 }
